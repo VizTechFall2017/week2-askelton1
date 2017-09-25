@@ -1,0 +1,24 @@
+#circle1 {
+    fill: salmon;
+}
+#circle2 {
+    fill: lightsalmon;
+}
+#circle3 {
+    fill: mistyrose;
+}
+#circle4 {
+    fill: floralwhite;
+}
+#circle5 {
+    fill: oldlace;
+}
+#circle6 {
+    fill:peachpuff;
+}
+#circle7 {
+    fill: pink;
+}
+body {
+    background-image: url("http://templatemints.com/rttheme13/images/background_images/abstract_background7.jpg")
+}
